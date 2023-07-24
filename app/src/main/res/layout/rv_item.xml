@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:layout_margin="5dp"
+    android:background="@drawable/edge"
+    android:orientation="horizontal"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        app:cardCornerRadius="30dp">
+        <ImageView
+            android:background="@drawable/radius"
+            android:id="@+id/rvImageArea"
+            android:src="@drawable/ic_launcher_background"
+            android:layout_width="120dp"
+            android:scaleType="fitXY"
+            android:layout_height="120dp" />
+    </androidx.cardview.widget.CardView>
+
+
+    <TextView
+        android:id="@+id/rvTextArea"
+        android:textStyle="normal"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="30sp"
+        android:text="asdasdasdqw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

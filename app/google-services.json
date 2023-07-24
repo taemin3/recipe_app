@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352441608631",
+    "project_id": "recipe-app-9075d",
+    "storage_bucket": "recipe-app-9075d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352441608631:android:25cd37cff9b7694bda2032",
+        "android_client_info": {
+          "package_name": "com.taemin.recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352441608631-so3ji8ft81lcgbecv8a1744t2kfa2va9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXP9n5Z3yuK8xdFmw6brOjx8RzBoyEg3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352441608631-so3ji8ft81lcgbecv8a1744t2kfa2va9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
